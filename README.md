@@ -52,6 +52,8 @@ index.html
 ```
 
 in any browser.
+##or try from this link
+https://hira-0534.github.io/student-resource-portal-hira-creative-web-studio/
 
 ---
 
